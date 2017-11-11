@@ -1,0 +1,3 @@
+rootProject.name = 'RNAnimatableAppDemo'
+
+include ':app'
